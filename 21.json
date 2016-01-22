@@ -1,0 +1,71 @@
+{
+   "timezone": "+7:00:00",
+   "defaultstopinterval": "00:00:15",
+   "vehicles":
+   [
+      {
+         "name": "21",
+         "info": "5-6753",
+         "route": "Kusang Temple - Chulalongkorn University",
+         "stops":
+         [
+            {
+               "name": "Kusang Temple",
+               "departure": { "time":"22:00", "day": 1 }
+            },
+            {
+               "name": "Thungkru Temple",
+               "departure": { "time":"22:01", "day": 1 }
+            },
+            {
+               "name": "Prachauthit 68",
+               "departure": { "time":"22:02", "day": 1 }
+            },
+            {
+               "name": "KMUTT",
+               "departure": { "time":"22:02:30", "day": 1 }
+            },
+            {
+               "name": "Prachauthit 1",
+               "departure": { "time":"22:03", "day": 1 }
+            },
+            {
+               "name": "Bangpakok Market",
+               "departure": { "time":"22:03:30", "day": 1 }
+            },
+            {
+               "name": "Bangpakaew",
+               "departure": { "time":"22:04:30", "day": 1 }
+            },
+            {
+               "name": "Daokanong",
+               "departure": { "time":"22:05", "day": 1 }
+            },
+            {
+               "name": "Samre",
+               "departure": { "time":"22:06", "day": 1 }
+            },
+            {
+               "name": "WongwianYai",
+               "departure": { "time":"22:07", "day": 1 }
+            },
+            {
+               "name": "Pahurat",
+               "departure": { "time":"22:08", "day": 1 }
+            },
+            {
+               "name": "SamYaek",
+               "departure": { "time":"22:09:30", "day": 1 }
+            },
+            {
+               "name": "Hualumpong",
+               "departure": { "time":"22:10:30", "day": 1 }
+            },
+            {
+               "name": "Chulalongkorn University",
+               "arrival": { "time":"21:11:30", "day": 1 }
+            }
+         ]
+      }
+   ]
+}
