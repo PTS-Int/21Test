@@ -1,0 +1,71 @@
+{
+   "timezone": "+7:00:00",
+   "defaultstopinterval": "00:00:15",
+   "vehicles":
+   [
+      {
+         "name": "21",
+         "info": "5-6753",
+         "route": "21 (Kusang Temple - Chulalongkorn University)",
+         "stops":
+         [
+            {
+               "name": "Kusang Temple",
+               "departure": { "time":"22:15", "day": 1 }
+            },
+            {
+               "name": "Thungkru Temple",
+               "departure": { "time":"22:16", "day": 1 }
+            },
+            {
+               "name": "Prachauthit 68",
+               "departure": { "time":"22:17", "day": 1 }
+            },
+            {
+               "name": "KMUTT",
+               "departure": { "time":"22:17:30", "day": 1 }
+            },
+            {
+               "name": "Prachauthit 1",
+               "departure": { "time":"22:18", "day": 1 }
+            },
+            {
+               "name": "Bangpakok Market",
+               "departure": { "time":"22:18:30", "day": 1 }
+            },
+            {
+               "name": "Bangpakaew",
+               "departure": { "time":"22:19:30", "day": 1 }
+            },
+            {
+               "name": "Daokanong",
+               "departure": { "time":"22:20", "day": 1 }
+            },
+            {
+               "name": "Samre",
+               "departure": { "time":"22:21", "day": 1 }
+            },
+            {
+               "name": "WongwianYai",
+               "departure": { "time":"22:22", "day": 1 }
+            },
+            {
+               "name": "Pahurat",
+               "departure": { "time":"22:23", "day": 1 }
+            },
+            {
+               "name": "SamYaek",
+               "departure": { "time":"22:24:30", "day": 1 }
+            },
+            {
+               "name": "Hualumpong",
+               "departure": { "time":"22:25:30", "day": 1 }
+            },
+            {
+               "name": "Chulalongkorn University",
+               "arrival": { "time":"22:26:30", "day": 1 }
+            }
+         ]
+      }
+   ]
+}
